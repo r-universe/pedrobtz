@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "azr"]
+	path = azr
+	url = https://github.com/pedrobtz/azr
 [submodule "imf.data"]
 	path = imf.data
 	url = https://github.com/pedrobtz/imf.data
