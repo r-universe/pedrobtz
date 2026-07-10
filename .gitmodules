@@ -5,6 +5,9 @@
 [submodule "azr"]
 	path = azr
 	url = https://github.com/pedrobtz/azr
+[submodule "data.sketches"]
+	path = data.sketches
+	url = https://github.com/pedrobtz/data.sketches
 [submodule "imf.data"]
 	path = imf.data
 	url = https://github.com/pedrobtz/imf.data
