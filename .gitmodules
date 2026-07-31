@@ -11,6 +11,9 @@
 [submodule "imf.data"]
 	path = imf.data
 	url = https://github.com/pedrobtz/imf.data
+[submodule "openlineage"]
+	path = openlineage
+	url = https://github.com/pedrobtz/openlineage
 [submodule "quak"]
 	path = quak
 	url = https://github.com/pedrobtz/quak
