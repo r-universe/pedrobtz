@@ -17,6 +17,9 @@
 [submodule "imf.data"]
 	path = imf.data
 	url = https://github.com/pedrobtz/imf.data
+[submodule "mdbx"]
+	path = mdbx
+	url = https://github.com/pedrobtz/mdbx
 [submodule "openlineage"]
 	path = openlineage
 	url = https://github.com/pedrobtz/openlineage
