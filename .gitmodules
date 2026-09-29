@@ -23,6 +23,9 @@
 [submodule "openlineage"]
 	path = openlineage
 	url = https://github.com/pedrobtz/openlineage
+[submodule "qio"]
+	path = qio
+	url = https://github.com/pedrobtz/qio
 [submodule "quak"]
 	path = quak
 	url = https://github.com/pedrobtz/quak
