@@ -29,6 +29,9 @@
 [submodule "quak"]
 	path = quak
 	url = https://github.com/pedrobtz/quak
+[submodule "zuhtml"]
+	path = zuhtml
+	url = https://github.com/pedrobtz/zuhtml
 [submodule "zujson"]
 	path = zujson
 	url = https://github.com/pedrobtz/zujson
