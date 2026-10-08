@@ -35,3 +35,6 @@
 [submodule "zujson"]
 	path = zujson
 	url = https://github.com/pedrobtz/zujson
+[submodule "zuyaml"]
+	path = zuyaml
+	url = https://github.com/pedrobtz/zuyaml
