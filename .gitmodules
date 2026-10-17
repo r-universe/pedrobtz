@@ -29,12 +29,18 @@
 [submodule "quak"]
 	path = quak
 	url = https://github.com/pedrobtz/quak
+[submodule "zucsv"]
+	path = zucsv
+	url = https://github.com/pedrobtz/zucsv
 [submodule "zuhtml"]
 	path = zuhtml
 	url = https://github.com/pedrobtz/zuhtml
 [submodule "zujson"]
 	path = zujson
 	url = https://github.com/pedrobtz/zujson
+[submodule "zukomp"]
+	path = zukomp
+	url = https://github.com/pedrobtz/zukomp
 [submodule "zuyaml"]
 	path = zuyaml
 	url = https://github.com/pedrobtz/zuyaml
