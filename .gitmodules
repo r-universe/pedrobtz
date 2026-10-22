@@ -29,9 +29,15 @@
 [submodule "quak"]
 	path = quak
 	url = https://github.com/pedrobtz/quak
+[submodule "zucbor"]
+	path = zucbor
+	url = https://github.com/pedrobtz/zucbor
 [submodule "zucsv"]
 	path = zucsv
 	url = https://github.com/pedrobtz/zucsv
+[submodule "zufast"]
+	path = zufast
+	url = https://github.com/pedrobtz/zufast
 [submodule "zuhtml"]
 	path = zuhtml
 	url = https://github.com/pedrobtz/zuhtml
