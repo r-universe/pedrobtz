@@ -35,9 +35,15 @@
 [submodule "zucsv"]
 	path = zucsv
 	url = https://github.com/pedrobtz/zucsv
+[submodule "zuexact"]
+	path = zuexact
+	url = https://github.com/pedrobtz/zuexact
 [submodule "zufast"]
 	path = zufast
 	url = https://github.com/pedrobtz/zufast
+[submodule "zufft"]
+	path = zufft
+	url = https://github.com/pedrobtz/zufft
 [submodule "zuhtml"]
 	path = zuhtml
 	url = https://github.com/pedrobtz/zuhtml
