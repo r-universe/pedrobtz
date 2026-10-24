@@ -32,6 +32,9 @@
 [submodule "zucbor"]
 	path = zucbor
 	url = https://github.com/pedrobtz/zucbor
+[submodule "zucrypt"]
+	path = zucrypt
+	url = https://github.com/pedrobtz/zucrypt
 [submodule "zucsv"]
 	path = zucsv
 	url = https://github.com/pedrobtz/zucsv
