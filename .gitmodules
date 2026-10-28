@@ -56,6 +56,9 @@
 [submodule "zukomp"]
 	path = zukomp
 	url = https://github.com/pedrobtz/zukomp
+[submodule "zuxml"]
+	path = zuxml
+	url = https://github.com/pedrobtz/zuxml
 [submodule "zuyaml"]
 	path = zuyaml
 	url = https://github.com/pedrobtz/zuyaml
