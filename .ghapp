@@ -1,0 +1,10 @@
+{
+  "id": 177871755,
+  "created_at": "2026-11-02T15:28:36.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["pedrobtz.r-universe.dev"]
+}
