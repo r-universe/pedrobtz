@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/pedrobtz/pedrobtz.r-universe.dev
 	branch = HEAD
 [submodule "agecrypt"]
 	path = agecrypt
@@ -29,6 +29,9 @@
 [submodule "quak"]
 	path = quak
 	url = https://github.com/pedrobtz/quak
+[submodule "zubin"]
+	path = zubin
+	url = https://github.com/pedrobtz/zubin
 [submodule "zucbor"]
 	path = zucbor
 	url = https://github.com/pedrobtz/zucbor
@@ -50,15 +53,27 @@
 [submodule "zuhtml"]
 	path = zuhtml
 	url = https://github.com/pedrobtz/zuhtml
+[submodule "zuid"]
+	path = zuid
+	url = https://github.com/pedrobtz/zuid
 [submodule "zujson"]
 	path = zujson
 	url = https://github.com/pedrobtz/zujson
 [submodule "zukomp"]
 	path = zukomp
 	url = https://github.com/pedrobtz/zukomp
+[submodule "zumime"]
+	path = zumime
+	url = https://github.com/pedrobtz/zumime
+[submodule "zuproto"]
+	path = zuproto
+	url = https://github.com/pedrobtz/zuproto
 [submodule "zutoml"]
 	path = zutoml
 	url = https://github.com/pedrobtz/zutoml
+[submodule "zuxlsx"]
+	path = zuxlsx
+	url = https://github.com/pedrobtz/zuxlsx
 [submodule "zuxml"]
 	path = zuxml
 	url = https://github.com/pedrobtz/zuxml
